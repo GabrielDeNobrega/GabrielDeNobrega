@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GabrielMorrissey
+- 👀 I’m interested in playing games, developing sofware, running and reading.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on any kinds of projects that can help me to improve as a coding professional.
+- 📫 How to reach me: sr.gabrielnobrega@hotmail.com
