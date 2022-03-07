@@ -1,5 +1,4 @@
-![print](https://user-images.githubusercontent.com/84252664/157065354-601e5348-eb1b-48aa-a99f-4b62040c2171.png)
-
+![print](https://user-images.githubusercontent.com/84252664/157065499-8705b002-7e87-4dc4-b56e-46a3f67954f9.png)
 
 
 - 👋 Hi, welcome to my profile! My name is Gabriel de Nóbrega and I'm 21 years old.
