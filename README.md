@@ -1,4 +1,4 @@
-https://prnt.sc/LuO3pqWddnxK
+![alt text](https://prnt.sc/LuO3pqWddnxK)
 
 
 - 👋 Hi, welcome to my profile! My name is Gabriel de Nóbrega and I'm 21 years old.
