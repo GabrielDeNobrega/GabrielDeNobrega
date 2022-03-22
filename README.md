@@ -28,6 +28,6 @@
 🎧Spotify🎧
 </h1>
 
-<p align="center">
-[<img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12174985492)
-</p>
+<img align="center">
+<img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />(https://open.spotify.com/user/12174985492)
+</img>
