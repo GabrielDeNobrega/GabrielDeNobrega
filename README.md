@@ -11,17 +11,19 @@
 - 🌱 I believe that everything is possible if you work hard and never give up!
 
 <h1 align="center" width="100%">
-📊Statistics
+📊Statistics📊
 </h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielDeNobrega&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C)
 
 <h1 align="center" width="100%">
-🔥Languages
+🔥Languages🔥
 </h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeNobrega&layout=compact&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C)](https://github.com/GabrielDeNobrega/github-readme-stats)
 
-🎧Spotify
+<h1 align="center" width="100%">
+🎧Spotify🎧
+</h1>
 
 [<img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12174985492)
