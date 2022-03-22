@@ -1,4 +1,6 @@
-![print](https://user-images.githubusercontent.com/84252664/157065499-8705b002-7e87-4dc4-b56e-46a3f67954f9.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84252664/157065499-8705b002-7e87-4dc4-b56e-46a3f67954f9.png" alt="mainimage" />
+</p>
 
 <h1 align="center" width="100%">
 👨‍💻About Me
