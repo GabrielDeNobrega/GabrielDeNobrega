@@ -11,6 +11,7 @@
   <img align="right" alt="gif" height="300" style="border-radius:50px;" src="https://media1.giphy.com/media/qDHbPXeongY8M/giphy.gif?cid=ecf05e47x6dbd62iye2nj7rlyzggywdjls3kkd08rwsd4boo&rid=giphy.gif&ct=g">
 </a>
 
+  <h3>
 <ul align="left">
   <li>👋 My name is Gabriel de Nóbrega and I'm 21 years old.</li>
   <li>🌎 I can speak, listen and write well using English.</li>
@@ -18,6 +19,7 @@
   <li>☕ I'm studying at SenacSP.</li>
   <li>🌱 Everything is possible!</li>
 </ul>
+  </h3>
   
   <br clear="right"/>
   
