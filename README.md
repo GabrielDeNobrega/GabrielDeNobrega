@@ -7,10 +7,12 @@
 👨‍💻About Me
 </h1>
 
+<div>
 <a href="https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2">
   <p align="right">
   <img align="right" alt="gif-mio" height="169" style="border-radius:50px;" src="https://media1.giphy.com/media/qDHbPXeongY8M/giphy.gif?cid=ecf05e47x6dbd62iye2nj7rlyzggywdjls3kkd08rwsd4boo&rid=giphy.gif&ct=g">
 </p></a>
+
 
 <ul height="400" align="left">
   <li>👋 My name is Gabriel de Nóbrega and I'm 21 years old.</li>
@@ -19,8 +21,10 @@
   <li>☕ I'm studying at SenacSP.</li>
   <li>🌱 Everything is possible!</li>
 </ul>
-
-<h1 align="center" height="100">
+ 
+  <br clear="left"/>
+  
+<h1 align="center">
 ⚙️Statistics⚙️
 </h1>
 
@@ -41,6 +45,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/12174985492">
-    <img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="500" />
+    <img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="500"/>
   </a>
 </div>
