@@ -24,7 +24,7 @@
 </h1>
 
 <a href="https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2">
-<img align="left" alt="gif-mio" height="335" style="border-radius:50px;" src="https://media3.giphy.com/media/ITuFb81NvO0XS/giphy.gif?cid=ecf05e47nc1wyiu0wgvls9rwzvejippkik7p5dju08n8tr6h&rid=giphy.gif&ct=g">
+<img align="left" alt="gif-mio" height="338" style="border-radius:50px;" src="https://media3.giphy.com/media/ITuFb81NvO0XS/giphy.gif?cid=ecf05e47nc1wyiu0wgvls9rwzvejippkik7p5dju08n8tr6h&rid=giphy.gif&ct=g">
 </a>
 
 <a href="https://github.com/GabrielDeNobrega">
