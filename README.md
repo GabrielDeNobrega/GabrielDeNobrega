@@ -13,22 +13,15 @@
 - 🌱 I believe that everything is possible if you work hard and never give up!
 
 <h1 align="center" width="100%">
-📊Statistics📊
+⚙️Statistics⚙️
 </h1>
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column;">
 <a href="https://github.com/GabrielDeNobrega/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielDeNobrega&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C"/>
+  <img align="center" width="400" height="100%" src="https://github-readme-stats.vercel.app/api?username=GabrielDeNobrega&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C"/>
 </a>
-</div>
-
-<h1 align="center" width="100%">
-🔥Languages🔥
-</h1>
-
-<div align="center">
 <a href="https://github.com/GabrielDeNobrega/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeNobrega&layout=compact&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C)](https://github.com/GabrielDeNobrega/github-readme-stats"/>
+  <img align="center" width="400" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeNobrega&layout=compact&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C)](https://github.com/GabrielDeNobrega/github-readme-stats"/>
 </a>
 </div>
   
