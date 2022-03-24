@@ -19,12 +19,6 @@
   <li>🌱 Everything is possible!</li>
 </ul>
   
-  <div align="left">
-  <a href="https://open.spotify.com/user/12174985492">
-    <img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="440"/>
-  </a>
-</div>
-  
   <br clear="right"/>
   
 <h1 align="center">
@@ -45,5 +39,11 @@
   <br clear="left"/>
   
 <h1 align="center" width="100%">
-🎧Myself🎧
+🎧Spotify & Others🎧
 </h1>
+
+  <div align="center">
+  <a href="https://open.spotify.com/user/12174985492">
+    <img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="440"/>
+  </a>
+</div>
