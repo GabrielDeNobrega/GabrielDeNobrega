@@ -51,7 +51,7 @@
 
 
 <a href="https://www.starwars.com/">
-<img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/MZW5o8f5RaH0Q/giphy.gif?cid=ecf05e473cawfa8fm01g67t7pwx353r8by9p87hujrveb7ia&rid=giphy.gif&ct=g">
+<img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://im5.ezgif.com/tmp/ezgif-5-ddeee2a03a.gif">
 </a>
 
 <br clear="right"/>
