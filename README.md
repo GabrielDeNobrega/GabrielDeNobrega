@@ -2,7 +2,6 @@
   <img width="1000" align="center"src="https://user-images.githubusercontent.com/84252664/157065499-8705b002-7e87-4dc4-b56e-46a3f67954f9.png" alt="mainimage" />
 </p>
 
-
 <h1 align="center">
 👨‍💻About Me
 </h1>
@@ -19,6 +18,12 @@
   <li>☕ I'm studying at SenacSP.</li>
   <li>🌱 Everything is possible!</li>
 </ul>
+  
+  <div align="left">
+  <a href="https://open.spotify.com/user/12174985492">
+    <img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="440"/>
+  </a>
+</div>
   
   <br clear="right"/>
   
@@ -40,11 +45,5 @@
   <br clear="left"/>
   
 <h1 align="center" width="100%">
-🎧Spotify🎧
+🎧Myself🎧
 </h1>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/12174985492">
-    <img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="500"/>
-  </a>
-</div>
