@@ -1,29 +1,37 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84252664/157065499-8705b002-7e87-4dc4-b56e-46a3f67954f9.png" alt="mainimage" />
+  <img width="1000" align="center"src="https://user-images.githubusercontent.com/84252664/157065499-8705b002-7e87-4dc4-b56e-46a3f67954f9.png" alt="mainimage" />
 </p>
 
-<h1 align="center" width="100%">
+
+<h1 align="center">
 👨‍💻About Me
 </h1>
 
-- 👋 Hi, welcome to my profile! My name is Gabriel de Nóbrega and I'm 21 years old.
-- 📚 I currently live in São Paulo, Brazil. This is where I was born and raised, however I'm open to move.
-- 🌎 I've been studying English since I was 13 years old which makes me fluent in it. I can speak, listen and write well.
-- ☕ I'm studying at SenacSP to become a back-end developer using mostly Java. However, I'm also interested into front-end development.
-- 🌱 I believe that everything is possible if you work hard and never give up!
+- 👋 My name is Gabriel de Nóbrega and I'm 21 years old.
+  <br>
+- 📚 I currently live in São Paulo, Brazil.
+  <br>
+- 🌎 I can speak, listen and write well using English.
+  <br>
+- ☕ I'm studying at SenacSP.
+  <br>
+- 🌱 Everything is possible!
+  <br>
 
-<h1 align="center" width="100%">
+
+<h1 align="center">
 ⚙️Statistics⚙️
 </h1>
 
-<div align="center" style="display: flex; flex-direction: column;">
-<a href="https://github.com/GabrielDeNobrega/">
-  <img align="center" width="400" height="100%" src="https://github-readme-stats.vercel.app/api?username=GabrielDeNobrega&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C"/>
+<a href="https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2">
+<img align="left" alt="gif-mio" height="400" style="border-radius:50px;" src="https://media3.giphy.com/media/ITuFb81NvO0XS/giphy.gif?cid=ecf05e47nc1wyiu0wgvls9rwzvejippkik7p5dju08n8tr6h&rid=giphy.gif&ct=g">
 </a>
-<a href="https://github.com/GabrielDeNobrega/">
-  <img align="center" width="400" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeNobrega&layout=compact&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C)](https://github.com/GabrielDeNobrega/github-readme-stats"/>
-</a>
-</div>
+
+<a href="https://github.com/GabrielDeNobrega">
+<p align="right">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=GabrielDeNobrega&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C" alt="gabrieldenobrega's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeNobrega&layout=compact&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C" alt="gabrieldenobrega's most languages"/>
+</p></a>
   
 <h1 align="center" width="100%">
 🎧Spotify🎧
@@ -31,6 +39,6 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/12174985492">
-    <img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />
+    <img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="500" />
   </a>
 </div>
