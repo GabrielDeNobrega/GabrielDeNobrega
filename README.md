@@ -44,8 +44,14 @@
 🎧Spotify & Others🎧
 </h1>
 
-  <div align="center">
+
   <a href="https://open.spotify.com/user/12174985492">
-    <img src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="440"/>
+    <img aling="left" src="https://novatorem-three-eosin.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" height="120" width="400"/>
   </a>
-</div>
+
+
+<a href="https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2">
+<img align="right" alt="gif" height="200" style="border-radius:50px;" src="https://media3.giphy.com/media/MZW5o8f5RaH0Q/giphy.gif?cid=ecf05e473cawfa8fm01g67t7pwx353r8by9p87hujrveb7ia&rid=giphy.gif&ct=g">
+</a>
+
+<br clear="right"/>
