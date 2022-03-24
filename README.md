@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2">
-  <img align="right" alt="gif-mio" height="300" style="border-radius:50px;" src="https://media1.giphy.com/media/qDHbPXeongY8M/giphy.gif?cid=ecf05e47x6dbd62iye2nj7rlyzggywdjls3kkd08rwsd4boo&rid=giphy.gif&ct=g">
+  <img align="right" alt="gif" height="300" style="border-radius:50px;" src="https://media1.giphy.com/media/qDHbPXeongY8M/giphy.gif?cid=ecf05e47x6dbd62iye2nj7rlyzggywdjls3kkd08rwsd4boo&rid=giphy.gif&ct=g">
 </a>
 
 <ul align="left">
@@ -27,15 +27,17 @@
 </h1>
 
 <a href="https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2">
-<img align="left" alt="gif-mio" height="403" style="border-radius:50px;" src="https://media3.giphy.com/media/ITuFb81NvO0XS/giphy.gif?cid=ecf05e47nc1wyiu0wgvls9rwzvejippkik7p5dju08n8tr6h&rid=giphy.gif&ct=g">
+<img align="left" alt="gif" height="321" style="border-radius:50px;" src="https://media3.giphy.com/media/ITuFb81NvO0XS/giphy.gif?cid=ecf05e47nc1wyiu0wgvls9rwzvejippkik7p5dju08n8tr6h&rid=giphy.gif&ct=g">
 </a>
 
 <a href="https://github.com/GabrielDeNobrega">
 <p align="right">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=GabrielDeNobrega&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C" alt="gabrieldenobrega's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeNobrega&layout=compact&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C" alt="gabrieldenobrega's most languages"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=GabrielDeNobrega&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C" alt="gabrieldenobrega's stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDeNobrega&layout=compact&bg_color=355,19C1F2,13B63A&title_color=000000&text_color=4F4C4C" alt="gabrieldenobrega's most languages"/>
 </p></a>
   </div>
+  
+  <br clear="left"/>
   
 <h1 align="center" width="100%">
 🎧Spotify🎧
