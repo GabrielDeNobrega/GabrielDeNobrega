@@ -13,7 +13,7 @@
 
   <h3>
 <ul align="left">
-  <li>👋 My name is Gabriel de Nóbrega and I'm 21 years old.</li>
+  <li>👋 My name is Gabriel de Nóbrega and I'm 22 years old.</li>
   <li>🌎 I can speak, listen and write well using English.</li>
   <li>📚 I currently live in São Paulo, Brazil.</li>
   <li>☕ I'm studying at SenacSP.</li>
