@@ -16,7 +16,7 @@
   <li>👋 My name is Gabriel de Nóbrega and I'm 22 years old.</li>
   <li>🌎 I can speak, listen and write well using English.</li>
   <li>📚 I currently live in São Paulo, Brazil.</li>
-  <li>☕ I'm studying at SenacSP.</li>
+  <li>☕ I graduated at SenacSP.</li>
   <li>🌱 Everything is possible!</li>
 </ul>
   </h3>
